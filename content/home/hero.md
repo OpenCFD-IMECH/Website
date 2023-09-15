@@ -1,13 +1,13 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 5
 title: OpenCFD系列软件
 hero_media: flow.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,220)'
+    gradient_start: 'rgb(220,220,220)'
     gradient_end: 'rgb(255,255,255)'
     text_color_light: false
 cta:

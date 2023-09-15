@@ -12,4 +12,4 @@ header:
   image: ''
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+OpenCFD软件目前已开放下载。  请下载后签署《OpenCFD系列软件使用协议》， 拍照或扫描后发给 lixl@imech.ac.cn

@@ -13,10 +13,9 @@ main:
   - name: 文档
     PageRef: course/data-science/_index.md
     weight: 10
-    parent: courses
   - name: Blog
     PageRef: post/_index.md
     weight: 30
-  - name: Contact
+  - name: 联系我们
     PageRef: contact/index.md
     weight: 60

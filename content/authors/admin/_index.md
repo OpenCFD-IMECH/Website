@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 计算流体力学
+  - 可压缩湍流与转捩
+  - 飞行器空气动力学
 
 education:
   courses:

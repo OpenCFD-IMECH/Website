@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: OpenCFD系列软件
-hero_media: teacher.png
+hero_media: flow.png
 design:
   background:
     gradient_angle: 0

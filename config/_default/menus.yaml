@@ -13,6 +13,9 @@ main:
   - name: 文档
     PageRef: course/data-science/_index.md
     weight: 10
+  - name: 图集
+    PageRef: gallery/_index.md
+    weight: 10
   - name: Blog
     PageRef: post/_index.md
     weight: 30

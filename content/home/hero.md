@@ -7,8 +7,8 @@ hero_media: flow.png
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(200,200,200)'
-    gradient_end: 'rgb(255,255,255)'
+    gradient_start: 'rgb(255,255,255)'
+    gradient_end: 'rgb(200,200,200)'
     text_color_light: false
 cta:
   url: '#courses'

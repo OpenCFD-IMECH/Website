@@ -35,8 +35,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:lixl@imech.ac.cn'
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Li-Xin-Liang
   - icon: github
     icon_pack: fab
@@ -55,4 +55,5 @@ user_groups:
 ---
 
  欢迎访问我的网盘，下载课件、程序及文档： http://pan.baidu.com/s/1slfC5Yl
+ 
  急需人才加盟，欢迎报考本人的研究生（提供较好待遇）

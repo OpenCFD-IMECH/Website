@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: ✨ Compute _anything_ with
+subtitle: ✨ _Computational_ _Fluid_ _Dynamics_ with
 feature:
   - icon: check
     icon_pack: fas

@@ -35,7 +35,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'lixl@imech.ac.cn'
-  - icon: phone
+  - icon: cellphone
     icon_pack: fab
     link: ' 82543801'
   - icon: github

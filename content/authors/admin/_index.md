@@ -36,7 +36,7 @@ social:
     icon_pack: fas
     link: 'mailto:lixl@imech.ac.cn'
   - icon: researchgate
-    icon_pack: ai
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Li-Xin-Liang
   - icon: github
     icon_pack: fab

@@ -1,8 +1,8 @@
 ---
-title: OpenCFD 文档
+title: OpenCFD 介绍
 # linkTitle: Data Science
 summary: OpenCFD简要介绍
-date: '2021-01-24'
+date: '2023-09-18'
 type: book
 tags:
   - current

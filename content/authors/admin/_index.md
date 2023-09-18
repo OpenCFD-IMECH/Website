@@ -34,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lixl@imech.ac.cn'
+    link: 'xinliang:lixl@imech.ac.cn'
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Li-Xin-Liang

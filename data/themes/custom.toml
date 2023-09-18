@@ -10,7 +10,7 @@ name = "Custom Theme"
   link_hover = "rgb(54, 54, 54)"
 
   # Menu
-  menu_primary = "rgb(140,140,150)"
+  menu_primary = "rgb(150,150,150)"
   menu_text = "#000"
   menu_text_active = "#0a2d50"
   menu_title = "#000"

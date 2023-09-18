@@ -1,7 +1,7 @@
 ---
 title: OpenCFD 文档
 # linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: OpenCFD简要介绍
 date: '2021-01-24'
 type: book
 tags:

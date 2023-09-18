@@ -11,13 +11,10 @@ banner:
   image: ''
 ---
 
-请关注我们的Github组织以获得最新开发动态：[OpenCFD-IMECH](https://github.com/OpenCFD-IMECH)
+**请关注我们的Github组织以获得最新开发动态：[OpenCFD-IMECH](https://github.com/OpenCFD-IMECH)**
 
-- 高精度异构并行有限差分CFD软件： [OpenCFD-SCU](https://github.com/OpenCFD-IMECH/OpenCFD-SCU/archive/refs/tags/3.0.zip) ![GitHub release (by tag)](https://img.shields.io/github/downloads/OpenCFD-IMECH/OpenCFD-SCU/3.0/total)
-- 高精度有限差分CFD软件： [OpenCFD-SC](https://github.com/OpenCFD-IMECH/OpenCFD-SC/archive/refs/tags/2.2b.zip) ![GitHub release (by tag)](https://img.shields.io/github/downloads/OpenCFD-IMECH/OpenCFD-SC/2.2b/total)
-
-- 高精度多块网格有限体积CFD软件： [OpenCFD-EC](https://github.com/OpenCFD-IMECH/OpenCFD-EC/archive/refs/tags/1.16a.zip) ![GitHub release (by tag)](https://img.shields.io/github/downloads/OpenCFD-IMECH/OpenCFD-EC/1.16a/total)
-
-- 二维多块网格有限体积CFD软件： [OpenCFD-EC2D](https://github.com/OpenCFD-IMECH/OpenCFD-EC2D/archive/refs/tags/1.5.4.zip) ![GitHub release (by tag)](https://img.shields.io/github/downloads/OpenCFD-IMECH/OpenCFD-EC2D/1.5.4/total)
-
-- 高精度有限差分化学反应流CFD软件： [OpenCFD-Comb](https://github.com/OpenCFD-IMECH/OpenCFD-Comb/archive/refs/tags/1.5a.zip) ![GitHub release (by tag)](https://img.shields.io/github/downloads/OpenCFD-IMECH/OpenCFD-Comb/1.5a/total)
+- 高精度异构并行有限差分CFD软件： [OpenCFD-SCU](https://github.com/OpenCFD-IMECH/OpenCFD-SCU/archive/refs/tags/3.0.zip)
+- 高精度有限差分CFD软件： [OpenCFD-SC](https://github.com/OpenCFD-IMECH/OpenCFD-SC/archive/refs/tags/2.2b.zip) 
+- 高精度多块网格有限体积CFD软件： [OpenCFD-EC](https://github.com/OpenCFD-IMECH/OpenCFD-EC/archive/refs/tags/1.16a.zip)
+- 二维多块网格有限体积CFD软件： [OpenCFD-EC2D](https://github.com/OpenCFD-IMECH/OpenCFD-EC2D/archive/refs/tags/1.5.4.zip)
+- 高精度有限差分化学反应流CFD软件： [OpenCFD-Comb](https://github.com/OpenCFD-IMECH/OpenCFD-Comb/archive/refs/tags/1.5a.zip)

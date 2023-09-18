@@ -1,5 +1,5 @@
 ---
-title: 📚 Courses
+title: 📚 文档
 type: page
 tags:
   - preface
@@ -10,5 +10,3 @@ banner:
   caption: ''
   image: ''
 ---
-
-Explore our courses below and expand your knowledge!

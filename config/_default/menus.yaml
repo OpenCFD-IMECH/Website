@@ -9,14 +9,14 @@ main:
     weight: 10
   - name: 软件下载
     weight: 20
-    identifier: courses
+    PageRef: downloads/_index.md
   - name: 文档
-    PageRef: course/data-science/_index.md
+    PageRef: document/_index.md
     weight: 10
   - name: 图集
     PageRef: gallery/_index.md
     weight: 10
-  - name: Blog
+  - name: 动态
     PageRef: post/_index.md
     weight: 30
   - name: 联系我们

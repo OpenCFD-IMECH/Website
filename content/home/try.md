@@ -7,4 +7,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./course/" cta_text="下载OpenCFD系列软件" %}}
+{{% cta cta_link="./downloads/_index.md" cta_text="下载OpenCFD系列软件" %}}

@@ -34,13 +34,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'lixl@imech.ac.cn'
+  - icon: phone
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: ' 82543801'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/OpenCFD-IMECH
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -54,4 +54,5 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ 欢迎访问我的网盘，下载课件、程序及文档： http://pan.baidu.com/s/1slfC5Yl
+ 急需人才加盟，欢迎报考本人的研究生（提供较好待遇）

@@ -1,6 +1,6 @@
 ---
 title: OpenCFD 文档
-linkTitle: Data Science
+# linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
 type: book
@@ -15,10 +15,10 @@ OpenCFD软件是中国科学院力学研究所李新亮研究员课题组开发�
 OpenCFD软件是当前应用最为广泛的可压缩湍流高分辨率数值模拟软件之一，目前已得到国内外200余家用户使用。获2022年度中国空气动力学会科学技术一等奖（自然科学类），获得陕西省科学技术奖二等奖（2018）三等奖（2013）等奖项。
 
 OpenCFD软件由若干独立的求解器（模块）构成，包括：
-- OpenCFD-SC :  高精度有限差分求解器，主要用于湍流等复杂流动的直接数值模拟(DNS)、大涡模拟（LES）等高分辨率计算；
-- OpenCFD-EC: 多块结构网格有限体积求解器，主要用于工程复杂流场计算；
-- OpenCFD-Comb: 化学反应流动高精度差分求解器，主要用于化学反应流场的高分辨率计算；
-- OpenCFD-SCU: OpenCFD-SC的GPU版。 支持上万块GPU卡的大规模并行
+- `OpenCFD-SC` :  高精度有限差分求解器，主要用于湍流等复杂流动的直接数值模拟(DNS)、大涡模拟（LES）等高分辨率计算；
+- `OpenCFD-EC`: 多块结构网格有限体积求解器，主要用于工程复杂流场计算；
+- `OpenCFD-Comb`: 化学反应流动高精度差分求解器，主要用于化学反应流场的高分辨率计算；
+- `OpenCFD-SCU`: OpenCFD-SC的GPU版。 支持上万块GPU卡的大规模并行
 
 ## 所获荣誉
 

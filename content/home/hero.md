@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 5
 title: OpenCFD 系列软件
-hero_media: flow.png
+hero_media: flow.webp
 design:
   background:
     gradient_angle: 0

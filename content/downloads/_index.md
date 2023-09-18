@@ -1,5 +1,5 @@
 ---
-title: 💾下载
+title: 💾软件下载
 type: page
 tags:
   - preface
@@ -10,6 +10,8 @@ banner:
   caption: ''
   image: ''
 ---
+
+OpenCFD软件目前已开放下载。请下载后签署[使用协议](./OpenCFD使用协议.pdf)， 拍照或扫描后发给 lixl@imech.ac.cn
 
 **请关注我们的Github组织以获得最新开发动态：[OpenCFD-IMECH](https://github.com/OpenCFD-IMECH)**
 

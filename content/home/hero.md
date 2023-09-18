@@ -8,7 +8,7 @@ design:
   background:
     gradient_angle: 0
     gradient_start: 'rgb(255,255,255)'
-    gradient_end: 'rgb(150,150,150)'
+    gradient_end: 'rgb(180,180,180)'
     text_color_light: false
 cta:
   url: 'document/'

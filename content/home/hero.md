@@ -28,4 +28,4 @@ advanced:
 
  OpenCFD软件是中国科学院力学研究所李新亮研究员课题组开发的一套高精度计算流体力学软件
 
-<object data="https://img.shields.io/badge/Follow_us_on-Github-blue?link=https%3A%2F%2Fgithub.com%2FOpenCFD-IMECH">
+<!-- <object data="https://img.shields.io/badge/Follow_us_on-Github-blue?link=https%3A%2F%2Fgithub.com%2FOpenCFD-IMECH"> -->

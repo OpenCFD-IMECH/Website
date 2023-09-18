@@ -35,9 +35,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'lixl@imech.ac.cn'
-  - icon: cellphone
-    icon_pack: fab
-    link: ' 82543801'
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Li-Xin-Liang
   - icon: github
     icon_pack: fab
     link: https://github.com/OpenCFD-IMECH

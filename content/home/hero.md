@@ -11,7 +11,7 @@ design:
     gradient_end: 'rgb(200,200,200)'
     text_color_light: false
 cta:
-  url: '#document/_index.md'
+  url: 'document/_index.md'
   label: 查看文档
   icon_pack: fas
   icon: user-graduate

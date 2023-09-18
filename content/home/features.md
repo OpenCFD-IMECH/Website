@@ -6,11 +6,11 @@ title: Features
 subtitle: ✨ Compute _anything_ with
 feature:
   - icon: check
-    icon_pack: fab
+    icon_pack: fas
     name: 高精度
     description:
   - icon: bolt
-    icon_pack: fab
+    icon_pack: fas
     name: 大规模并行
     description:
   - icon: code

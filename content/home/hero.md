@@ -7,8 +7,8 @@ hero_media: flow.webp
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(255,255,255)'
-    gradient_end: 'rgb(180,180,180)'
+    gradient_start: 'rgb(10, 45, 80)'
+    gradient_end: 'rgb(10, 45, 80)'
     text_color_light: false
 cta:
   url: 'document/'

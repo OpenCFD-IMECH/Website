@@ -9,7 +9,7 @@ design:
     gradient_angle: 0
     gradient_start: 'rgb(10, 45, 80)'
     gradient_end: 'rgb(10, 45, 80)'
-    text_color_light: false
+    text_color_light: true
 cta:
   url: 'document/'
   label: 查看文档

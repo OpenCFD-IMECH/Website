@@ -21,7 +21,7 @@ cta_alt:
 cta_note:
   label:
 advanced:
-  css_class: full-width
+  css_class: fullscreen
 ---
 
 <br>

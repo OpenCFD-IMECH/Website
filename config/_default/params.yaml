@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} OpenCFD team. This work is licensed under {license}'
+    notice: '© {year} OpenCFD Group. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/starter-hugo-online-course'
+    url: 'https://github.com/OpenCFD-IMECH/Website'
     content_dir: content
     branch: main
   comment:

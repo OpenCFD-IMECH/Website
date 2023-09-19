@@ -5,7 +5,7 @@ summary: OpenCFD简要介绍
 date: '2023-09-18'
 type: book
 tags:
-  - current
+  - by 李新亮
 ---
 
 ## 简介

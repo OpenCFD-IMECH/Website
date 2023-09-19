@@ -11,10 +11,10 @@ role: 课题组负责人
 # Organizations/Affiliations
 organizations:
   - name: 中国科学院力学研究所
-    url: ''
+    url: 'http://sourcedb.imech.cas.cn/zw/rck0/zgjzj/gwqtdlx/201211/t20121129_3694922.html'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 计算流体力学，直接数值模拟
 
 interests:
   - 计算流体力学
